@@ -1,4 +1,4 @@
-# Empathy detection on text level
+# Text Level Empathy detection
 Text is given to the transformer-based model to predict one of the outputs of "empathy-seeker", "empathy-provider" and "none". [seeker_provider_empathy dataset](https://github.com/zolfaShefreie/Empathy_Detection/tree/main/datasets/seeker_provider_empathy) is used for training models using pytorch.
 ## Steps
 - preprocessing </br>
