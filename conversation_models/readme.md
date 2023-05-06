@@ -39,7 +39,7 @@ below transformers/language models is used to create empathy classifier:
       DialoGPT
     </td>
     <td>
-      <img width="244" alt="image" src="https://user-images.githubusercontent.com/44172962/236611349-90cf8e91-7a41-4fb0-99f6-2f7d08e960d5.png">
+      <img width="245" alt="image" src="https://user-images.githubusercontent.com/44172962/236611411-169628a7-149a-4d98-b4e7-4aed9eb822a9.png">
     </td>
   </tr>
     <tr>
@@ -47,7 +47,7 @@ below transformers/language models is used to create empathy classifier:
       Roberta
     </td>
     <td>
-      <img width="244" alt="image" src="https://user-images.githubusercontent.com/44172962/236611349-90cf8e91-7a41-4fb0-99f6-2f7d08e960d5.png">
+      <img width="246" alt="image" src="https://user-images.githubusercontent.com/44172962/236611439-53654e64-5042-45e7-8b3b-1e20b0e67ad5.png">
     </td>
   </tr>
 </table>
