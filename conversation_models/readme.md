@@ -15,3 +15,39 @@ below transformers/language models is used to create empathy classifier:
   - DialoGPT
   - Roberta
 - evaluate
+
+## Results
+<table>
+  <tr>
+     <td>
+      Transformers
+    </td>
+    <td>
+      Result
+    </td>
+  </tr>
+  <tr>
+    <td>
+      GPT-2
+    </td>
+    <td>
+      <img width="244" alt="image" src="https://user-images.githubusercontent.com/44172962/236611349-90cf8e91-7a41-4fb0-99f6-2f7d08e960d5.png">
+    </td>
+  </tr>
+    <tr>
+    <td>
+      DialoGPT
+    </td>
+    <td>
+      <img width="244" alt="image" src="https://user-images.githubusercontent.com/44172962/236611349-90cf8e91-7a41-4fb0-99f6-2f7d08e960d5.png">
+    </td>
+  </tr>
+    <tr>
+    <td>
+      Roberta
+    </td>
+    <td>
+      <img width="244" alt="image" src="https://user-images.githubusercontent.com/44172962/236611349-90cf8e91-7a41-4fb0-99f6-2f7d08e960d5.png">
+    </td>
+  </tr>
+</table>
